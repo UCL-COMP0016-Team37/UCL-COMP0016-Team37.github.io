@@ -1,0 +1,28 @@
+{
+    "questionlist": [
+        {
+            "cardfront": "Pear",
+            "cardback": "La poire"
+        },
+        {
+            "cardfront": "Ice cream",
+            "cardback": "La glace"
+        },
+        {
+            "cardfront": "Tomato",
+            "cardback": "La tomate"
+        },
+        {
+            "cardfront": "Rice",
+            "cardback": "Le riz"
+        },
+        {
+            "cardfront": "Cake",
+            "cardback": "La gâteau"
+        },
+        {
+            "cardfront": "Milk",
+            "cardback": "Le Lait"
+        }
+    ]
+}
